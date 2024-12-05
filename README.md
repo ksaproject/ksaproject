@@ -18,7 +18,7 @@ Here are some tools and resources I've created:
 - [tip-calculator.co](https://tip-calculator.co/)  
   A simple tool for calculating tips and splitting bills.
 
-- [aircraftmechanicjobs.nent](https://aircraftmechanicjobs.net/)  
+- [aircraftmechanicjobs.net](https://aircraftmechanicjobs.net/)  
   Only job board for aircraft mechanic jobs
 
   
