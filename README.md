@@ -23,4 +23,7 @@ Here are some tools and resources I've created:
 
 - [tip calculator app](https://play.google.com/store/apps/details?id=com.tipcalculator.tipcalculator)
   Simple handy mobile app for tip calculator
+
+- [Histogrammaker.net](https://histogrammaker.net)
+  easy histogram maker
   
