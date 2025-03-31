@@ -10,8 +10,9 @@ Here are some tools and resources I've created:
 - [quartilecalculator.net](https://quartilecalculator.net/)  
   A tool to compute quartiles quickly and accurately.
 
-- [midpointcalculator.co](https://midpointcalculator.co/)  
-  Calculate the midpoint between two points with this handy tool.
+- [white screen tool](https://www.mywhitescreen.com/)
+
+- [Fake broken screen](https://www.mywhitescreen.com/broken-screen)  
 
 - [Histogrammaker.net](https://histogrammaker.net)
   easy histogram maker
