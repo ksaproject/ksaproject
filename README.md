@@ -5,6 +5,8 @@ Here are some tools and resources I've created:
 
 - [make pie charts](https://www.piechartmaker.me/)
 
+- [line graph maker](https://www.linegraphmaker.me/)
+
 - [time to decimal calculator](https://www.timetodecimalcalculator.com/)
   
 - [quartilecalculator.net](https://quartilecalculator.net/)  
