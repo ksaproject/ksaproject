@@ -18,4 +18,6 @@ Here are some tools and resources I've created:
 
 - [Histogrammaker.net](https://histogrammaker.net)
   easy histogram maker
+
+- [Time Card Calculator](https://www.timecardcalculator.me/)  
   
